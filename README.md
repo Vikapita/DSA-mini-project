@@ -20,4 +20,4 @@ How to Run the Program
 
 Submitted by: 2250555678 Vikapita Makari 
 
-Link:https://github.com/Vikapita/DSA-mini-project/edit/main/README.md
+Link:https://github.com/Vikapita/DSA-mini-project
