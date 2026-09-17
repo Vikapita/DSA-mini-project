@@ -22,6 +22,6 @@ How to Run the Program
 5.Follow the options displayed in the Campus Service Centre menu
 
 
-Submitted by: 2250555678 Vikapita Makari 
+Submitted by: 225055678 Vikapita Makari 
 
 Link:https://github.com/Vikapita/DSA-mini-project
