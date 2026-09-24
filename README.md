@@ -22,4 +22,4 @@ How to Run the Program
 
 Submitted by: 225055678 Vikapita Makari 
 
-Link:https://github.com/Vikapita/DSA-mini-project
+Link:https://github.com/Vikapita/DSA-mini-project.git
